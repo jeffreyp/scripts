@@ -4,6 +4,9 @@ Collection of random scripts and utilities
 # qs2things
 Take the text in Quicksilver and use it to create a Things3 to do. Save this script in `~/Library/Application Support/Quicksilver/Actions/qs2things.scpt` and it should *just work*.
 
+# worth
+This is an utterly ghetto Tampermonkey script that adds a couple of cells to Google Finance and computes RSU values. If you work for a tech company, admit it--you've written something similar.
+
 # MoveEmailToCalendar
 Mac Outlook doesn't support dragging emails onto one's calendar like Windows Outlook does. This is my attempt to hack around it:
 
